@@ -5,6 +5,8 @@
 > [!NOTE]
 > Desenvolvido em um smartphone, caso tenha alguma experiência desagradável em telas maiores (desktop e laptop), entre em contato!
 
+<a href="mailto:santosm7_@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://discord.com/api/users/699984529829658634"><img src="https://dcbadge.limes.pink/api/shield/699984529829658634" /></a>
+
 <br>
 
 ### ☕ Tecnologias Usadas
@@ -24,3 +26,8 @@
 
 ### 📂 Ambiente de trabalho
   * [Projeto IDX](https://idx.google.com)
+
+<br>
+<br>
+
+<img style="width: 440px; height: 248px;" src="https://media.tenor.com/oP29vkKqe5EAAAAM/cat-dance.gif" />
