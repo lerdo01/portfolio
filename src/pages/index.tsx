@@ -1,7 +1,7 @@
 export default function HomePage() {
     return (
 
-        <section className="py-60 w-full h-full flex justify-center items-center">
+        <section className="py-56 w-full h-full flex justify-center items-center">
 
             <div className="flex flex-col leading-[0.95]">
                 <p className="text-[42px] font-bold">Hi, I&apos;am Lerdo!
